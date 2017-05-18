@@ -1,6 +1,6 @@
 {
-  "name": "rc-slider",
-  "version": "7.0.8",
+  "name": "@one.com/rc-slider",
+  "version": "7.0.10",
   "description": "Slider UI component for React",
   "keywords": [
     "react",
@@ -8,10 +8,10 @@
     "react-slider",
     "slider"
   ],
-  "homepage": "https://react-component.github.io/slider/",
+  "homepage": "https://github.com/Anton-Gusarov/slider",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/slider.git"
+    "url": "git@github.com:Anton-Gusarov/slider.git"
   },
   "bugs": {
     "url": "http://github.com/react-component/slider/issues"

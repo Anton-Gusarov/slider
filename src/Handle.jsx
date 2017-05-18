@@ -12,7 +12,9 @@ export default class Handle extends React.Component {
       ...style,
       ...handleStyle,
     };
-    return <div {...restProps} className={className} style={elStyle} />;
+    return (<div {...restProps} className={className} style={elStyle}>
+      <div className={"rc-slider-handle-decoration"} />
+    </div>);
   }
 }
 
